@@ -2,7 +2,7 @@
   "name": "agic",
   "version": "0.0.1",
   "scripts": {
-    "start": "nodejs ./bin/www"
+    "start": "nodejs app.js"
   },
   "private": true,
   "engines": {
