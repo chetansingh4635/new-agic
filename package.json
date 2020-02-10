@@ -1,9 +1,13 @@
 {
-  "name": "application-name",
+  "name": "agic",
   "version": "0.0.1",
-  "private": true,
   "scripts": {
     "start": "nodejs ./bin/www"
+  },
+  "private": true,
+  "engines": {
+    "node": "10.16.0",
+    "npm": "6.9.0"
   },
   "dependencies": {
     "express": "~4.0.0",
